@@ -12,6 +12,12 @@ I thank them a lot for making it easier for me to learn Termux
 and I am very grateful to all the developers of the Termux application
 see Termux's github on https://github.com/termux
 
+[+] Instalasi : 
+apt-get update && apt-get upgrade -y
+git clone https://github.com/Gijoelol/Lazyscript_Termux-Hydra
+cd Lazyscript_Termux-Hydra
+chmod x+ *
+sh setup.sh
 
-
-
+[+] Usage : 
+python2 ls.py
