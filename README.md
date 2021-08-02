@@ -14,5 +14,4 @@ see Termux's github on https://github.com/termux
 
 
 
-[+] Instalasi :
-apt-get update && apt-get upgrade -y
+
